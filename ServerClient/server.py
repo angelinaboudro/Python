@@ -1,5 +1,4 @@
 # Name: Angelina Boudro
-# Class: CS4390, Dr. Nhut Nguyen
 # Program: Server.py This program will implement a server connection that will
 # process requests from the client connection for the requested files.
 # Date: Created - 07/23/2020, Last Modified - 11/03/2021
