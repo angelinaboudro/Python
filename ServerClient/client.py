@@ -1,5 +1,4 @@
 # Name: Angelina Boudro
-# Class: CS4390, Dr. Nhut Nguyen
 # Program: Client.py this program will implement a client connection that will request a
 # file from the list from the server.
 # Date: Created - 07/23/2020, Last Modified - 11/3/2021
