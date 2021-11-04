@@ -1,4 +1,5 @@
-#calculator
+# A Basic Calculator program that will perform add/subtract, multiplication/division and mod functions.
+# Created by Angelina Boudro
 
 #add function
 def add(num1, num2):  #function signature
