@@ -1,5 +1,5 @@
 '''
-Created by Angelina Boudro
+Created by Angelina Derkacheva
 For Computer Networks
 Project: Server using HTTP and socket.
 '''
