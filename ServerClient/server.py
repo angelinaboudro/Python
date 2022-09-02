@@ -1,7 +1,7 @@
-# Name: Angelina Boudro
+# Name: Angelina Derkacheva
 # Program: Server.py This program will implement a server connection that will
 # process requests from the client connection for the requested files.
-# Date: Created - 07/23/2020, Last Modified - 11/03/2021
+# Date: Created - 07/23/2020, Last Modified - 09/01/2022
 
 import socket
 from threading import Thread
